@@ -1,0 +1,22 @@
+{
+  "autoload": {
+    "classmap": [
+      "database/dbconnection.php",
+      "core/bootstrap.php",
+      "core/controller.php",
+      "models/",
+      "plug-ins/",
+      "helpers/"
+    ],
+    "files":[
+           
+        ]
+  },
+ 
+    "require": 
+    {
+        "volnix/csrf": "~1.0"
+    
+    }
+
+}
